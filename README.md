@@ -1,4 +1,4 @@
-# BruhMomentModpack
+# modded 
 Just an awesome modpack that I will keep here and on curseforge
 
 All you need to do is download this and put it in your mod folder.
